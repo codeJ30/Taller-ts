@@ -1,8 +1,6 @@
 
 //@ts-check
 
-let numero :number [] = [1,2,3]
-
 function obtenerMayor (...numbers : number[]){
 
    let mayor : number = numbers[0];
